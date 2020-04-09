@@ -4,7 +4,7 @@
         <div class="card-header bg-info text-white">Customer Address</div>
         <div class="card-body">
                 <div class="row" *ngIf="addressList">
-                        <div class="col-md-4" *ngFor="let address of addressList">
+                        <div class="col-md-6" *ngFor="let address of addressList">
                                 <h4>{{address.type}}</h4>
                                 <p>{{address.label}}</p>
                                 <p>{{address.locality}}</p>

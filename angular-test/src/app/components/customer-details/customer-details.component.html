@@ -1,0 +1,25 @@
+<div class="container panel base-padding-top">
+   <div class="row">
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th scope="col">Employee Id</th>
+          <th scope="col">Name</th>
+          <th scope="col">Salary</th>
+          <th scope="col">Age</th>
+          <th scope="col">Addresses</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let employee of customerList.data">
+          <td>{{employee.id}}</td>
+          <td>{{employee.employee_name}}</td>
+          <td>{{employee.employee_salary}}</td>
+          <td>{{employee.employee_age}}</td>
+          <td><a href="" (click)="showAddress(employee.id)">Show Address</a></td>
+        </tr>
+      </tbody>
+    </table>
+</div>
+  </div>
+  

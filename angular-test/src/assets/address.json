@@ -1,0 +1,189 @@
+{
+	"1": [{
+			"type": "home",
+			"label": "Dwaraka",
+			"street": "Chitrigi",
+			"postalCode": "581343",
+			"locality": "kumta",
+			"state": "Karntaka"
+		},
+		{
+			"type": "Work",
+			"label": "Cisco Systems",
+			"street": "Kaadubeesanahalli",
+			"postalCode": "560102",
+			"locality": "Bangalore",
+			"state": "Karntaka"
+		}
+	],
+	"2": [{
+			"type": "home",
+			"label": "8, Chukuniapara",
+			"street": "Malang Road",
+			"postalCode": "781135",
+			"locality": "Chaikata",
+			"state": "Assam"
+		},
+		{
+			"type": "Work",
+			"label": "134, Taktumajra Sehra Road",
+			"street": "Takhtu Majra",
+			"postalCode": "140701",
+			"locality": "Patiala",
+			"state": "Punjab"
+		}
+	],
+	"3": [{
+			"type": "home",
+			"label": "15, Unnamed Road",
+			"street": "Goalpara",
+			"postalCode": "783120",
+			"locality": "",
+			"state": "Assam"
+		},
+		{
+			"type": "Work",
+			"label": "Esha Heights",
+			"street": "",
+			"postalCode": "194201",
+			"locality": "Ehsaan Nagar Alwar",
+			"state": "Karntaka"
+		}
+	],
+	"4": [{
+			"type": "home",
+			"label": "Ajeet Apartments",
+			"street": "Heena Chowk ",
+			"postalCode": "144031",
+			"locality": "Pondicherry",
+			"state": "Pondicherry"
+		},
+		{
+			"type": "Work",
+			"label": "Ritika Apartments,",
+			"street": "Vikhroli",
+			"postalCode": "469768",
+			"locality": "Bangalore",
+			"state": "Karntaka"
+		}
+	],
+	"5": [{
+			"type": "home",
+			"label": "Vineeta Apartments",
+			"street": "Cyber City Hisar ",
+			"postalCode": "581343",
+			"locality": "Bangalore",
+			"state": "Karntaka"
+		},
+		{
+			"type": "Work",
+			"label": "57, Drishti Heights,",
+			"street": "Ehsaan Nagar Alwar ",
+			"postalCode": "455336",
+			"locality": "Bangalore",
+			"state": "Karntaka"
+		}
+	],
+	"6": [{
+			"type": "home",
+			"label": "90, NishitaPur",
+			"street": "Jyoti Nagar",
+			"postalCode": "238080",
+			"locality": "Bangalore",
+			"state": "Karntaka"
+		},
+		{
+			"type": "Work",
+			"label": "15, Prabhat Chowk",
+			"street": "Cyber City Jamnagar",
+			"postalCode": "471331",
+			"locality": "Bangalore",
+			"state": "Karntaka"
+		}
+	],
+	"7": [{
+			"type": "home",
+			"label": "51, Kasturba Villas,",
+			"street": "Marathahalli",
+			"postalCode": "244562",
+			"locality": "Bangalore",
+			"state": "Karntaka"
+		},
+		{
+			"type": "Work",
+			"label": "4, Sona Society",
+			"street": "Hinjewadi",
+			"postalCode": "377702",
+			"locality": "Bangalore",
+			"state": "Karntaka"
+		}
+	],
+	"8": [{
+			"type": "home",
+			"label": "58, Vineeta Apartments",
+			"street": "Cyber City",
+			"postalCode": "291470",
+			"locality": "Mangalore",
+			"state": "Karntaka"
+		},
+		{
+			"type": "Work",
+			"label": "11, Ranpur Roads",
+			"street": "Ranpur",
+			"postalCode": "496331",
+			"locality": "Bangalore",
+			"state": "Karntaka"
+		}
+	],
+	"9": [{
+		"type": "home",
+		"label": " Shobha Hse",
+		"street": "Next To Natraj Studi",
+		"postalCode": "400069",
+		"locality": "Andheri",
+		"state": "Maharashtra"
+	},
+	{
+		"type": "Work",
+		"label": "Gupta House",
+		"street": ", Citi Corner 1, Sector 29",
+		"postalCode": "400705",
+		"locality": "Vashi",
+		"state": "Maharashtra"
+	}
+],
+"10": [{
+	"type": "home",
+	"label": "Apollo Chambers",
+	"street": "Nagardas Cross",
+	"postalCode": "400069",
+	"locality": "Andheri ",
+	"state": "Maharashtra"
+},
+{
+	"type": "Work",
+	"label": "Luthia Rubber Company",
+	"street": "Sakinaka",
+	"postalCode": "400069",
+	"locality": "Andheri",
+	"state": "Maharashtra"
+}
+],
+"11": [{
+	"type": "home",
+	"label": "Anna Salai",
+	"street": "623,2nd Cross",
+	"postalCode": "600006",
+	"locality": " Chennai",
+	"state": " Tamil Nadu"
+},
+{
+	"type": "Work",
+	"label": "Jeedimetla",
+	"street": "Plot No 61, Phase - 3, Ida",
+	"postalCode": "500055",
+	"locality": "Hyderabad",
+	"state": "Andhra Pradesh"
+}
+]
+}

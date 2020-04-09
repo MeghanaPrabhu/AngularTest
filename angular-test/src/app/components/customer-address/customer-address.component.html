@@ -1,0 +1,20 @@
+<div>
+<div class="container my-sm-3">
+<div class="card">
+        <div class="card-header bg-info text-white">Customer Address</div>
+        <div class="card-body">
+                <div class="row" *ngIf="addressList">
+                        <div class="col-md-4" *ngFor="let address of addressList">
+                                <h4>{{address.type}}</h4>
+                                <p>{{address.label}}</p>
+                                <p>{{address.locality}}</p>
+                                <p>{{address.postalCode}}</p>
+                        </div>
+                </div>
+                <div class="row" *ngIf="!addressList">
+                        <p>Click on the Row to get Customer Address!</p>
+                </div>
+        </div>
+</div>
+</div>
+</div>
